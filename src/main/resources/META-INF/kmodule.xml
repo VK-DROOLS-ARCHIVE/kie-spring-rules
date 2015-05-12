@@ -1,0 +1,7 @@
+<kmodule xmlns="http://jboss.org/kie/6.0.0/kmodule">
+
+    <kbase name="kie-spring-rules" packages="org.kie.spring.rules">
+        <ksession name="ksession1" type="stateless"/>
+        <ksession name="ksession2"/>
+    </kbase>
+</kmodule>
